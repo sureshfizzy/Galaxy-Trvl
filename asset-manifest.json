@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GalaxyTrvl/static/css/main.686297b6.css",
+    "main.js": "/GalaxyTrvl/static/js/main.cb50f975.js",
+    "static/media/space.mp4": "/GalaxyTrvl/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/GalaxyTrvl/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "index.html": "/GalaxyTrvl/index.html",
+    "main.686297b6.css.map": "/GalaxyTrvl/static/css/main.686297b6.css.map",
+    "main.cb50f975.js.map": "/GalaxyTrvl/static/js/main.cb50f975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.686297b6.css",
+    "static/js/main.cb50f975.js"
+  ]
+}
